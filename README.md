@@ -1,58 +1,52 @@
-```
-# Portfolio Website
+# Meu Portfólio
 
-This is a personal portfolio website developed by Manuel Pires Luis using HTML, CSS, and JavaScript. The website showcases my projects, skills, and contact information.
+Bem-vindo ao repositório do meu portfólio! Este projeto demonstra minhas habilidades, projetos e realizações como desenvolvedor. Abaixo, você encontrará uma visão geral da estrutura do repositório, tecnologias utilizadas e como explorá-lo.
 
-## Table of Contents
-- [About](#about)
-- [Technologies Used](#technologies-used)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+---
 
-## About
-This website serves as a digital portfolio to showcase my work and skills as a web developer. It includes sections for my projects, skills, and contact information.
+## 📖 Índice
+- [Sobre](#sobre)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Funcionalidades](#funcionalidades)
+- [Projetos](#projetos)
+- [Como Executar Localmente](#como-executar-localmente)
+- [Contato](#contato)
 
-## Technologies Used
-- **HTML**: Structure of the website
-- **CSS**: Styling and layout of the website
-- **JavaScript**: Interactive elements and functionalities
+---
 
-## Features
-- **Home Page**: Introduction and overview of the portfolio
-- **Projects Section**: Display of various projects with descriptions and links
-- **Skills Section**: Listing of technical skills and proficiencies
-- **Contact Section**: Form to contact me directly
+## 📝 Sobre
+Este portfólio é uma coleção de meus projetos pessoais e profissionais, mostrando minha experiência em desenvolvimento web front-end e back-end. Ele foi projetado para fornecer uma maneira clara e interativa de explorar meu trabalho.
 
-## Installation
-To run this project locally, follow these steps:
+---
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/ManuelPiresLuis01/Manuel-Pires-Luis.git
-   ```
-2. Navigate to the project directory:
-   ```sh
-   cd Manuel-Pires-Luis
-   ```
-3. Open `index.html` in your web browser.
+## 💻 Tecnologias Utilizadas
+Este repositório utiliza as seguintes tecnologias:
+- **HTML**: Estruturação do conteúdo do portfólio (50,2% do projeto).
+- **CSS**: Estilização e design do layout (30,9% do projeto).
+- **JavaScript**: Adição de interatividade ao site (17,9% do projeto).
+- **PHP**: Funcionalidades no lado do servidor (1% do projeto).
 
-## Usage
-Open the website in your web browser to explore the various sections. The website is fully responsive and can be viewed on different devices.
+---
 
-## Contributing
-Contributions are welcome! If you have any suggestions or improvements, please create an issue or open a pull request.
+## ✨ Funcionalidades
+- Design responsivo e amigável para dispositivos móveis.
+- Exibição de projetos com descrições detalhadas e links.
+- Interface de usuário limpa e moderna.
+- Formulário de contato para facilitar a comunicação.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+---
 
-## Contact
-For any inquiries or feedback, feel free to contact me at:
-- **Email**: manuelpiresluis@gmail.com
-- **LinkedIn**: [Manuel Pires Luis](www.linkedin.com/in/manuel-pires-l-5275852aa)
+## 📂 Projetos
+Alguns dos projetos incluídos neste portfólio são:
+1. **Nome do Projeto 1**: Breve descrição e propósito.
+2. **Nome do Projeto 2**: Breve descrição e propósito.
+3. **Nome do Projeto 3**: Breve descrição e propósito.
 
-```
+*(Substitua os placeholders com informações reais dos seus projetos.)*
 
+---
+
+## ⚙️ Como Executar Localmente
+1. Clone este repositório para sua máquina local:
+   ```bash
+   git clone https://github.com/ManuelPiresLuis01/Meu-Portifolio.git
