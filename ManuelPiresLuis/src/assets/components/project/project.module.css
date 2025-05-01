@@ -1,0 +1,21 @@
+.projects {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+
+    height: 100vh;
+}
+
+.projects h1 {
+    width: fit-content;
+    border-bottom: 3px solid white;
+    padding-bottom: 8px;
+}
+
+.Project{
+    display: flex;
+    gap: 20px;
+    margin-bottom: 30px;
+}

@@ -1,0 +1,47 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 30px;
+    background-color: #310c5354;
+}
+
+.headerLogo img {
+    cursor: pointer;
+    width: 70px;
+    height: 70px;
+    display: none;
+    border-radius: 50%;
+}
+
+.headerLogo img:hover {
+  transform: scale(3.1);
+
+}
+
+.headerNav ul{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+
+.headerNav li{
+  list-style-type: none;
+  font-weight: bold;
+}
+
+.changeLang{
+    border: 2px solid white;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    padding: 5px;
+}
+
+.changeLang select{
+    background: none;
+    cursor: pointer;
+    outline: none;
+}
